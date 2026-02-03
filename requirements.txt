@@ -17,7 +17,6 @@ distro==1.9.0
 dnspython==2.8.0
 ecdsa==0.19.1
 email-validator==2.3.0
-emergentintegrations==0.1.0
 fastapi==0.110.1
 fastuuid==0.14.0
 filelock==3.20.2
@@ -59,7 +58,6 @@ mdurl==0.1.2
 motor==3.3.1
 multidict==6.7.0
 mypy==1.19.1
-mypy_extensions==1.1.0
 numpy==2.4.0
 oauthlib==3.3.1
 openai==1.99.9
@@ -84,7 +82,6 @@ Pygments==2.19.2
 PyJWT==2.10.1
 pymongo==4.5.0
 pyparsing==3.3.1
-pytest==9.0.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
 python-jose==3.5.0
